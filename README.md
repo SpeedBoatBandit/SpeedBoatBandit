@@ -14,10 +14,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Wazuh SIEM Implementation, VirusTotal Integration & Automation | <a href="https://github.com/SpeedBoatBandit/Wazuh-SIEM-FIM-Automation-Lab">Wazuh SIEM Automation Lab</a>
 | SIEM Implementation and Log Analysis          | <a href="https://drive.google.com/file/d/1F7ryiCHOJHY8uEB7q2T4c81HKQeZwfO-/view?usp=sharing">SIEM Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://drive.google.com/file/d/11zecv4ItczK5gYhImJxUBiLvqSDXreH3/view?usp=drive_link">Network IPS/IDS Lab</a>|
 | Security Posture Assesment and Analysis        | <a href="https://drive.google.com/file/d/1YiLAj11WzN94ZK4qrKzmw8McKsoWTu9z/view?usp=drive_link">Vulnerable Website Analysis Lab</a>|
 | MITRE ATT&CK Mapping and Counter Threat Intelligence     | <a href="https://drive.google.com/file/d/1mYMia4JiKYuY7dY2IZVSC4dSmtfGM0xv/view?usp=drive_link">CTI Mapping and Mitigation</a>|
+
 
 
 ## Tools
@@ -55,7 +57,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
-- Counter Threat Intelligence
-- IDS/IPS Monitoring
+- <a href="https://github.com/SpeedBoatBandit/Wazuh-SIEM-FIM-Automation-Lab">Wazuh SIEM Automation Lab</a>
