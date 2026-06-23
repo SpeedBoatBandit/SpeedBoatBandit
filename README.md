@@ -1,8 +1,8 @@
 # Hello, I'm Sean
 <a href="https://www.linkedin.com/in/sean-tho-512366218/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
-I am currently a student enrolled at San Diego City College in their Cyber Defense and Data Analysis Bachelor Program. I have a profound interest in technology and a deep dedication to solving complex problems. 
+I recently graduated with a Bachelor's degree in Cyber Defense and Data Analysis from San Diego City College. With a deep passion for technology and problem-solving, I'm eager to apply my skills to real-world security and data challenges."
+ 
 
 ## Objective
 
