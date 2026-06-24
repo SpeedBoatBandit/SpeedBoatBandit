@@ -20,6 +20,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Network Traffic Monitoring and Attack Detection | <a href="https://drive.google.com/file/d/11zecv4ItczK5gYhImJxUBiLvqSDXreH3/view?usp=drive_link">Network IPS/IDS Lab</a>|
 | Security Posture Assesment and Analysis        | <a href="https://drive.google.com/file/d/1YiLAj11WzN94ZK4qrKzmw8McKsoWTu9z/view?usp=drive_link">Vulnerable Website Analysis Lab</a>|
 | MITRE ATT&CK Mapping and Counter Threat Intelligence     | <a href="https://drive.google.com/file/d/1mYMia4JiKYuY7dY2IZVSC4dSmtfGM0xv/view?usp=drive_link">CTI Mapping and Mitigation</a>|
+| Microsoft Entra ID Monitoring with Splunk      |<a href="https://medium.com/@tho.sean01/entra-id-monitoring-thm-walk-through-guide-2da7039e1a5a"> Entra ID Monitoring with Splunk SIEM</a>| 
 
 
 
