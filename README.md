@@ -1,5 +1,6 @@
 # Hello, I'm Sean
 <a href="https://www.linkedin.com/in/sean-tho-512366218/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://medium.com/@tho.sean01"><img src="https://img.shields.io/badge/-Medium-12100E?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 
 Bachelor's graduate in Cyber Defense and Data Analysis | Aspiring SOC Analyst | San Diego City College. I'm driven by a passion for protecting systems and solving complex security challenges. Currently looking for opportunities to kick off my cybersecurity career.
  
